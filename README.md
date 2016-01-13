@@ -1,5 +1,5 @@
-# NotEngine_Wii
-A little framework that can render sound and 2d graphics on the PSP.
+# NotEngine_PSP
+A little framework that can render a bit of sound and 2d graphics on the PSP.
 
 - Handle ym file format
 - TRS Sprites (maybe I've implemented a bit of animation)
